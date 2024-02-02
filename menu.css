@@ -107,7 +107,7 @@
 }
 
 .image1 {
-  background-image: url("pexels-klaus-nielsen-6287548.jpg");
+  background-image: url("./img/pexels-klaus-nielsen-6287548.jpg");
   height: 500px;
   background-size: cover;
   display: flex;
@@ -155,7 +155,7 @@
 
 /* Footer */
 .footer {
-  background-image: url(bg4.jpg);
+  background-image: url(./img/bg4.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

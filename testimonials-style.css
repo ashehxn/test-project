@@ -68,6 +68,11 @@ body {
 
 /* Section 1 */
 .section1 {
+    background-image: url(./img/bg-transparent.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 30%;
+
     display: flex;
     align-items: center;
     justify-content: center;
